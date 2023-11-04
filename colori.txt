@@ -2,5 +2,9 @@ giallo
 bianco 
 grigio
 blu
+<<<<<<< HEAD
 
 alrero
+=======
+verde
+>>>>>>> b338029147f64c08b62956b43438d41ede960a1d
